@@ -1,1 +1,1 @@
-![Image of an architecture in Amsterdam, Netherlands](https://images.unsplash.com/photo-1534159276227-07bd3665e4e6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
